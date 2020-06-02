@@ -24,7 +24,7 @@ variables:
   ADDON_ARMHF_VARIANT: "v6"
   ADDON_ARMV7_VARIANT: "v7"
 
-  ADDON_QEMU: "false"
+  ADDON_QEMU: "true"
 
   ADDON_PUBLISH: "true"
   ADDONS_REPO_STABLE: "outkastm/my-hassio-addons"
