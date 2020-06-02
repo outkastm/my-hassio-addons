@@ -1,0 +1,6 @@
+channel: stable
+addons:
+  example:
+    repository: outkastm/addon-zwave2mqtt-okm
+    target: zwave2mqtt-okm
+    image: hassioaddons/example-{arch}
