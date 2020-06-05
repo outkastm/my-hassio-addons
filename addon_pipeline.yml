@@ -4,7 +4,7 @@ image: docker:stable
 variables:
   DOCKER_TLS_CERTDIR: "/certs"
 
-  ADDON_GITHUB_REPO: "hassio-addons/addon-example"
+  ADDON_GITHUB_REPO: "outkastm/addon-zwave2mqtt-okm"
   ADDON_SLUG: "example"
   ADDON_TARGET: "example"
 
