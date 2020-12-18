@@ -1,6 +1,6 @@
 {
   "name": "Z-Wave to MQTT",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "slug": "zwave2mqtt-okm",
   "description": "Fully configurable Z-Wave to MQTT gateway and control panel",
   "url": "https://github.com/outkastm/addon-zwave2mqtt-okm",
